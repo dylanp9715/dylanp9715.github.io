@@ -1,0 +1,36 @@
+body {
+	font-family: "Courier New", Courier, monospace;
+}
+
+#header {
+	text-align: center;
+	font-weight: bold;
+}
+
+#headshot {
+	text-align: center;
+}
+
+.greeting {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+}
+
+.section {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.organizationName {
+	font-weight: bold;
+}
+
+.jobTitle {
+	text-decoration: underline;
+}
+
+.image {
+	display: block;
+}
