@@ -2,6 +2,18 @@ body {
 	font-family: "Courier New", Courier, monospace;
 }
 
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:hover {
+	color: brown;
+}
+
 #header {
 	text-align: center;
 	font-weight: bold;
