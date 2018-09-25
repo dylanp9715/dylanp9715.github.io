@@ -1,5 +1,7 @@
 Dylan Park's Resume Web Page
 
+Aspects implemented correctly:
+
 index.html
 	Contains the links for the bio and resume page. Placed within the header 
 	div of the page. This div exists on every other page for consistency.
@@ -16,3 +18,15 @@ resume.html
 	To add more color, I added the logos of the two companies at which I have 
 	held internship positions. Under the descriptions for both skills and work
 	experience, I included the information within an unordered list.
+
+Aspects not implemented correctly:
+	
+	None
+
+Collaboration:
+	
+	No one
+
+Hours Spent: 
+	
+	4
